@@ -1,9 +1,6 @@
 # Clustering RabbitMQ Docker containers
 
-This repository accompanies a blog article/YouTube video I created to walk people through the setup of a RabbitMQ cluster on their machine.
-Go to my website to learn more about the setup:
 
-[Set up a RabbitMQ cluster on your laptop using Docker](https://oprea.rocks/blog/set-up-a-rabbitmq-cluster-on-your-laptop-using-docker/)
 
 ## Using `docker run`
 
